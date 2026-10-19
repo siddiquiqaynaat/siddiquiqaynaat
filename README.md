@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Qaynaat Shabana 👋
 
-<!--
-**siddiquiqaynaat/siddiquiqaynaat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Voc. in Software Development & E-Governance  
+💻 Interested in Software Engineering, Data Analytics, and AI/ML  
+📍 India
 
-Here are some ideas to get you started:
+## About Me
+- Software development graduate with a foundation in programming, databases, and software engineering.
+- Interested in building practical applications and exploring data-driven solutions.
+- Currently strengthening my Python, SQL, and software development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Programming:** Python, Java, JavaScript
+- **Databases:** PostgreSQL, SQLite, SQL
+- **Web Development:** HTML, CSS, React, Node.js, Express
+- **Tools:** Git, GitHub, Docker, Postman
+- **Data & Cloud:** Excel, Power BI, Azure data tools
+
+## Projects
+
+### Library Management System
+A Python and SQLite application using a layered design, with automated tests and continuous integration.
+
+### Tokyo Olympics Data Engineering
+A data engineering project exploring Azure Data Factory, Databricks/PySpark, and Synapse SQL.
+
+### School ERP Modules
+Selected React and Node.js modules from a team-based School ERP project, developed with PostgreSQL and Sequelize.
+
+## Certifications
+- Google AI Professional Certificate
+- AI for Everyone — DeepLearning.AI
+- Basics of AI/ML Workshop — Managineers
+
+## Connect
+- GitHub: [@siddiquiqaynaat](https://github.com/siddiquiqaynaat)
