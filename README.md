@@ -17,6 +17,9 @@
 - **Data & Cloud:** Excel, Power BI, Azure data tools
 
 ## Projects
+### Traffic Data Analysis
+
+A Python-based data analysis project focused on exploring traffic patterns and visualizing trends using Pandas and Matplotlib. Includes a Jupyter Notebook, project documentation, and dependency requirements.
 
 ### Library Management System
 A Python and SQLite application using a layered design, with automated tests and continuous integration.
